@@ -1,3 +1,3 @@
 # mousepointer　　
-本物のマウスはどれ？  
+本物のマウスポインタはどれ？  
 ![mouse](https://github.com/kkkkoyo/mousepointer/blob/master/gif/mouse.gif)
